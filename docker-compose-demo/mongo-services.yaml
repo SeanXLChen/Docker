@@ -1,4 +1,4 @@
-name: my-app
+name: mongo-services
 services:
 
   mongodb:
